@@ -1,0 +1,49 @@
+            Resumo do que é Git e GitHub e sua Importância
+
+
+
+O que é Git/GitHub e qual a sua importância?
+
+O Git é um software usado para gerar projetos onde os
+desenvolvedores podem trabalhar ao mesmo tempo e cooperar entre si.
+Foi desenvolvido em 2005 por Linus Torvalds, no qual tinha planos
+para a criação do Kernel do Linux, porém hoje ele é utilizado para 
+elaborar qualquer site, software ou código de forma mais rápida e inteligente.
+Porém, o recurso mais importante desse software é o sistema de controle de 
+alterações. Por exemplo: se alguém mudar o código, é gerada uma nova versão 
+para o projeto, evitando perder nenhuma informação.
+
+Já o GitHub é uma rede social de desenvolvedores, onde os usuários
+compartilham seus projetos, e vários outros desenvolvedores podem trabalhar
+e ajudar uns aos outros nesses projetos.
+
+
+Algumas ferramentas importantes do Git:
+
+
+*Branch: Nada mais é do que um ponteiro para as alterações feitas nos
+arquivos do projeto. É usado para adicionar novos recursos ou corrigir
+erros, gerando uma nova ramificação, garantindo também que o código 
+instável não seja misturado nso arquivos do projeto principal.
+
+*Commit: commit é a realização de um conjunto de mudanças temporárias
+permanentes, são praticamente as mudanças salvas no GitHub. Toda vez que
+for alterado o arquivo e o branch, terá que ser executado o Commit para
+mantê-lo.
+
+*Pull Requests: é uma forma colaborativa de compartilhar a criação ou as
+mudanças de código no repositório, de forma que facilite ser revisado e/ou
+discutido entre os desenvolvedores de uma equipe. Permitindo também que 
+todos os envolvidos tenham conhecimento do projeto e possam fazer o merge
+do código no branch principal.
+
+
+Principal Importância do Git/GitHub para nossa sociedade:
+
+O GitHub além de ser uma ótima plataforma de trabalhado para os desenvolvedores
+solos e equipes, permite que qualquer pessoa possa gerenciar seus projetos com
+eficiência e ter ajuda de outros colaboradores que também usam a plataforma.  
+A segurança oferecida também é fundamental, pois todo o conteúdo dos códigos
+são criptografados e protegidos. Por fim, também é disponível e utilizadas
+pelas empresas, formando um ambiente inteligente de trabalho em equipe. 
+
